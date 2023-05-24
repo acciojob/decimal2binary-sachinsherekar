@@ -3,4 +3,4 @@ function decimalToBinary(decimalNumber) {
   return decimalNumber.toString(2)
 }
 
-console.log(decimalNumber);
+console.log(decimalNumber());
