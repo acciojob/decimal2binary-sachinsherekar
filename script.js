@@ -1,6 +1,5 @@
-function decimalToBinary(decimalNumber) {
-// write your code here
-  return decimalNumber.toString(2)
+function decimalToBinary(num) {
+  // Write your code here
 }
 
-console.log(decimalToBinary(7));
+window.decimalToBinary = decimalToBinary;
